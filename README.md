@@ -5,6 +5,9 @@ This is a cool ML + Flask project I built to analyze resumes and predict whether
 
 I wanted to blend machine learning with real-time text extraction from PDFs, and make the app super simple to use.
 
+## Live on render
+- https://resume-analyzer-waqv.onrender.com
+
 ## What it does
 - Upload your resume (PDF)
 - The app auto-extracts:
